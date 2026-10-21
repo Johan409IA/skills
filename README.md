@@ -4,9 +4,10 @@ Colección personal de [agent skills](https://skills.sh) para agentes de código
 
 ## Skills disponibles
 
-| Skill                                          | Descripción                                                                                                                                                                                  |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`project-docs`](skills/project-docs/SKILL.md) | Crea y mantiene la documentación de un proyecto: `README.md`, `AGENTS.md`, `MEMORY.md`, `CHANGELOG.md`, `DESIGN.md`, `docs/architecture.md`, `docs/plans/` y docs de API (OpenAPI + Scalar). |
+| Skill                                                                          | Descripción                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`design-reference-implementer`](skills/design-reference-implementer/SKILL.md) | Rediseña una interfaz o componente completo del frontend a partir de una referencia visual (captura, prototipo, imagen, logo o iconos): spec previo aprobado por el usuario, implementación con los componentes y tokens del proyecto y verificación con Playwright CLI. |
+| [`project-docs`](skills/project-docs/SKILL.md)                                 | Crea y mantiene la documentación de un proyecto: `README.md`, `AGENTS.md`, `MEMORY.md`, `CHANGELOG.md`, `DESIGN.md`, `docs/architecture.md`, `docs/plans/` y docs de API (OpenAPI + Scalar).                                                                             |
 
 ## Instalación
 
